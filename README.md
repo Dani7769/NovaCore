@@ -36,4 +36,4 @@ Alternatively, you can get the proxy JAR from the [downloads](https://papermc.io
 page.
 
 ## By BD
-Discord username ._black_daniel_.
+Discord username `._black_daniel_.`
