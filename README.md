@@ -37,3 +37,4 @@ page.
 
 ## By BD
 Discord username `._black_daniel_.`
+If you find a bug, write to me on Discord. ^-^
