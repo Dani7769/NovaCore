@@ -6,7 +6,7 @@
 A Minecraft server proxy with unparalleled server support, scalability,
 and flexibility.
 
-Velocity is licensed under the GPLv3 license.
+NovaCore is licensed under the GPLv3 license.
 
 ## Goals
 
@@ -21,15 +21,15 @@ Velocity is licensed under the GPLv3 license.
   
 ## Building
 
-Velocity is built with [Gradle](https://gradle.org). We recommend using the
+NovaCore is built with [Gradle](https://gradle.org). We recommend using the
 wrapper script (`./gradlew`) as our CI builds using it.
 
 It is sufficient to run `./gradlew build` to run the full build cycle.
 
 ## Running
 
-Once you've built Velocity, you can copy and run the `-all` JAR from
-`proxy/build/libs`. Velocity will generate a default configuration file
+Once you've built NovaCore, you can copy and run the `-all` JAR from
+`proxy/build/libs`. NovaCore will generate a default configuration file
 and you can configure it from there.
 
 Alternatively, you can get the proxy JAR from the [downloads](https://papermc.io/downloads/velocity)
@@ -37,4 +37,7 @@ page.
 
 ## By BD
 Discord username `._black_daniel_.`
+
 If you find a bug, write to me on Discord. ^-^
+
+Help `MEREADME.md`

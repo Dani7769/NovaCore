@@ -16,8 +16,8 @@ application {
 tasks {
     jar {
         manifest {
-            attributes["Implementation-Title"] = "Velocity"
-            attributes["Implementation-Vendor"] = "Velocity Contributors"
+            attributes["Implementation-Title"] = "NovaCore"
+            attributes["Implementation-Vendor"] = "NovaCore Contributors"
             attributes["Multi-Release"] = "true"
         }
     }
